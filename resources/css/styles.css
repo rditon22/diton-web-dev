@@ -276,7 +276,7 @@ body {
     @media screen and (max-width: 560px) {
       #technical .skill-circle {
         left: 155px; } }
-    @media screen and (max-width: 500px) {
+    @media screen and (max-width: 300px) {
       #technical .skill-circle {
         left: 100px; } }
 
