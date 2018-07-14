@@ -63,6 +63,9 @@ body {
     @media screen and (max-width: 768px) {
       .jumbotron .display-2 {
         font-size: 48px; } }
+    @media screen and (max-width: 500px) {
+      .jumbotron .display-2 {
+        font-size: 24px; } }
   .jumbotron .title {
     font-weight: 500;
     padding: 10px 30px 10px 10px;
@@ -273,6 +276,9 @@ body {
     @media screen and (max-width: 560px) {
       #technical .skill-circle {
         left: 155px; } }
+    @media screen and (max-width: 500px) {
+      #technical .skill-circle {
+        left: 100px; } }
 
 @-webkit-keyframes spin {
   100% {
